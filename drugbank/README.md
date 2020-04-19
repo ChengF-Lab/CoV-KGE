@@ -1,0 +1,1 @@
+## Note: Unzip the drugbank.zip file in this folder first
